@@ -60,7 +60,7 @@ En este paso cada integrante del grupo hará un cambio en el proyecto, que no af
 
    ```
 
-2. __Persona A__ actualizará el repositorio remoto. Desde la consola de Git se deberá hacer push de los cambios que se hicieron. Los pasos para hacer push a un repositorio son los siguientes (deben estar dentro de la carpeta todoapp para que Git funcione): 
+2. __Persona A__ actualizará el repositorio remoto. Desde la consola de Git se deberá hacer push de los cambios que se hicieron. Los pasos para hacer push a un repositorio son los siguientes (la consola debe estar situada en la carpeta raíz para que Git funcione): 
     + `git status` para ver qué cambios se hicieron.
     + `git add nombre-archivo` para agregar un archivo al commit. En este caso el archivo será todolist/views.py 
     + `git commit -m "descripción del cambio que se hizo" ` para hacer commit de los cambios. 
