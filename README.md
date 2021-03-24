@@ -2,7 +2,7 @@
 Git es un software que permite hacer control de versiones de nuestros proyectos. 
 En esta actividad vamos a aprender conceptos de control de versiones con Git, simulando un flujo de trabajo de desarrollo de software (simplificado). 
 
-Esta es una app simple hecha en Django sacada de https://Github.com/CITGuru/todoapp. 
+Esta es una app simple hecha en Django sacada de https://github.com/CITGuru/todoapp. 
 La app es una TODO list donde pueden agregar tareas, ponerles categoría y fecha de término. 
 La versión de este repositorio no tiene la opción de eliminar una tarea, por lo tanto trabajarán en parejas para agregar esta funcionalidad. 
 
@@ -19,11 +19,11 @@ _Al final del README están las instrucciones de como correr el proyecto. Se rec
 ### [Parte 1: Fork del proyecto]
 Hoy trabajarán todxs sobre el mismo código base, pero deberán hacer una copia de este código en su repositorio personal, para que los cambios no afecten a otras parejas. 
 
-Para esto **UNA persona** de la pareja deberá hacer un "Fork" de este repositorio. 
+Para esto **UNA persona** de la pareja deberá hacer un "Fork" de este repositorio que están leyendo ahora (no del original de CITGuru). 
 1. En Github deben hacer click arriba a la derecha donde dice Fork y seguir las instrucciones. 
 ![Fork en github](github-fork.png "Repo base")
 
-    Al hacer Fork deberían tener un repo como el de la imagen y en vez de llamarse _flouMicaza/todoapp_ debería decir _nombreusuario/todoapp_.
+    Al hacer Fork deberían tener un repo como el de la imagen y en vez de llamarse _Aux-Ing-1/Auxiliar1-GIT_ debería decir _nombreusuario/Auxiliar1-GIT_.
 
     Desde ahora los cambios que hagan en el nuevo repositorio no afectarán el repositorio de sus compañerxs ni el repositorio original.
 
