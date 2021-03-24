@@ -1,4 +1,4 @@
-# Auxiliar 1 Ingenería de Software
+# Auxiliar 1 Ingeniería de Software
 Git es un software que permite hacer control de versiones de nuestros proyectos. 
 En esta actividad vamos a aprender conceptos de control de versiones con Git, simulando un flujo de trabajo de desarrollo de software (simplificado). 
 
