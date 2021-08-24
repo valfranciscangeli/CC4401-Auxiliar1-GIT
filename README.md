@@ -27,7 +27,7 @@ Para esto **UNA persona** de la pareja deberá hacer un "Fork" de este repositor
 
     Desde ahora los cambios que hagan en el nuevo repositorio no afectarán el repositorio de sus compañerxs ni el repositorio original.
 
-2. La persona que creó el repositorio deberá darle acceso a su pareja como colaborador. Para esto deberán ir a settings en la barra superior del repositorio (como en la imagen) 
+2. La persona que creó el repositorio deberá darle acceso a su pareja como colaborador. Para esto deberán ir a settings en la barra superior del repositorio (como en la imagen). 
 ![Settings en github](settings-repo.png)
     Luego ir a _manage access_ y seleccionar _Invite a collaborator_. Ahí se deberá ingresar la cuenta de github de la pareja y la pareja deberá aceptar la invitación por mail o a través del link de invitación. 
     
