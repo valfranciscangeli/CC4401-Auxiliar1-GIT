@@ -43,7 +43,7 @@ Desde ahora en adelante la persona que hizo el Fork será _"Persona A"_ y la otr
 Para poder trabajar, cada unx deberá clonar el proyecto en su computador siguiendo los siguientes pasos: 
 1. Copiar el enlace del repositorio donde dice "Clone or download". ![Clone or download](clone-dowload.png)
 2. Clonar el repositorio en la consola de Git:  `git clone https://url...` (_Escoger https y no ssh_)
-> Si quieren leer las diferencias entre clonar con SSH y HTTPS : [Protocolos de git](https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols) , [Conectar Github por ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+> Si quieren leer las diferencias entre clonar con SSH y HTTPS : [Protocolos de git](https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols) , [Conectar Github por ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 > La versión del proyecto que encontramos en github se llama repositorio __remoto__ y la versión que está en nuestro computador se llamará __local__. 
 
