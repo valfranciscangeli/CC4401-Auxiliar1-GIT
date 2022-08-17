@@ -27,3 +27,4 @@ def index(request): #the index view
             todo.delete() #deleting todo
 
 	return render(request, "index.html", {"todos": todos, "categories":categories})
+# comentario 2
